@@ -434,7 +434,7 @@ p {
 [ 03 - Start Header ]
 -----------------------------------------------------------------*/
 .header {
-  background-image: url("../../lazord/images/bridge.jpg");
+  background-image: url("../../new-portfolio/images/bridge.jpg");
   overflow: hidden;
   height: 100vh;
 }
